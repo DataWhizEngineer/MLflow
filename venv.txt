@@ -1,0 +1,3 @@
+for venv create :- python3.12 -m venv venv
+
+for activation :- venv\Scripts\activate
